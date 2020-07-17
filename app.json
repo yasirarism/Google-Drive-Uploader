@@ -1,13 +1,12 @@
 {
- "name": "Drive Upload Bot",
- "description": "Bot untuk upload file ke Google Drive",
- "logo": "https://telegra.ph/file/a3a32dcceb8201635c1f0.jpg",
- "keywords": [
-   "telegram",
-   "Screenshot",
-   "Sample video",
-   "Trim Video",
-   "without downloading the entire file"
+  "name": "Yasir Drive Upload Bot",
+  "description": "Bot Translator!",
+  "keywords": [
+    "telegram",
+    "best",
+    "translator",
+    "manager",
+    "3"
   ],
-  "repository": "https://github.com/yasirarism/Google-Drive-Uploader",
+  "repository": "https://github.com/yasirarism/Google-Drive-Uploader/",
 }
